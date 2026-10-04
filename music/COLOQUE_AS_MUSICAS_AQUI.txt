@@ -1,0 +1,1 @@
+Coloque os seus ficheiros MP3 nesta pasta e execute gerar_catalogo.py.
